@@ -66,12 +66,12 @@
     width: 55%;
     margin: auto;
     border-radius: 17px;
-    padding: 20px 40px;
+    padding: 10px 30px;
     display: flex;
     flex-direction: column;
     gap: 12px;
 }
-.about-me h2{
+.about-me h1{
     color: #145DD2;
 }
 .about-me p{
@@ -87,9 +87,9 @@
     border: 1px solid rgb(219, 217, 217);
     border-radius: 17px;
     width: 55%;
-    padding: 20px 40px;
+    padding: 10px 30px;
 }
-.education h2{
+.education h1{
     color: #145DD2;
 }
 .bachelor h4{
@@ -129,10 +129,10 @@
     border: 1px solid rgb(219, 217, 217);
     border-radius: 17px;
     width: 55%;
-    padding: 20px 40px;
+    padding: 10px 30px;
 }
 
-.technical-skills h2{
+.technical-skills h1{
     color: #145DD2;
 }
 .frontend h3{
@@ -218,9 +218,9 @@
     border: 1px solid rgb(219, 217, 217);
     border-radius: 17px;
     width: 55%;
-    padding: 20px 40px;
+    padding: 10px 30px;
 }
-.project h2{
+.project h1{
     color: #145DD2;
 }
 .food-delivery{
